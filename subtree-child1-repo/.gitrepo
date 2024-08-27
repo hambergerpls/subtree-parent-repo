@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:hambergerpls/subtree-child1-repo.git
 	branch = main
-	commit = d38e1bf6f2ffd82c13ba237e6a98dc0b7eeaa6d6
-	parent = 74b60c42a2272530dbb179ac535ad0e3655f3aa1
+	commit = 5dd5f367c69d363db72cea8600d454fe5e4e5808
+	parent = e5e2e2b8dae758dd81228ab63f71616547b248cd
 	method = merge
 	cmdver = 0.4.9
